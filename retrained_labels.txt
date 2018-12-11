@@ -1,0 +1,4 @@
+angry
+fear
+sad
+smile
