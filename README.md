@@ -11,6 +11,8 @@
 ### What steps you have to follow??
 - Download my repository 
 - Make 'Images' folder in your project ,make subfolder for emotions like Happy,sad,Angry.
+- Put 'Face_crop.py' & "haarcascade_frontalface_alt.xml" in every type of image folder,ex : put this program in "happy' image folder and 
+  run this program it will detect faces from images and convert it into grayscale and make a new images in same folder.
 - Make 'Songs' folder make subfolders for emotions and put Songs,Like Happy songs in happy folder.
 - After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
 - It will take training aaround 20-25 minutes so keep patience.
