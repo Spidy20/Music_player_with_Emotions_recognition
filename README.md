@@ -11,7 +11,7 @@
 ### What steps you have to follow??
 - Download my repository 
 - Make 'Images' folder in your project ,make subfolder for emotions like Happy,sad,Angry.
-- Male 'Songs' folder make subfolders for emotions and put Songs,Like Happy songs in happy folder.
+- Make 'Songs' folder make subfolders for emotions and put Songs,Like Happy songs in happy folder.
 - After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
 - It will take training aaround 20-25 minutes so keep patience.
 - After training it will create two files 'retrained_graph.pb' & 'retrained_labels.txt'
