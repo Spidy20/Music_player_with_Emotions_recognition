@@ -22,4 +22,9 @@
   and replace your server URL with my URL
 - That's all 
 
+### How it works? See:)
+
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Emotion_recognition_Music_player.gif">
+
+
 ## Just follow☝️ me and Star⭐ my repository 
