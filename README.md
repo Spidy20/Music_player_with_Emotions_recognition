@@ -11,14 +11,14 @@
 ### What steps you have to follow??
 - Download my repository 
 - Make 'Images' folder in your project ,make subfolder for emotions like Happy,sad,Angry.
-- Put 'Face_crop.py' & "haarcascade_frontalface_alt.xml" in every type of image folder,ex : put this program in "happy' image folder and 
+- Put `Face_crop.py` & `haarcascade_frontalface_alt.xml` in every type of image folder,ex : put this program in "happy' image folder and 
   run this program it will detect faces from images and convert it into grayscale and make a new images in same folder.
 - Make 'Songs' folder make subfolders for emotions and put Songs,Like Happy songs in happy folder.
 - After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
 - It will take training aaround 20-25 minutes so keep patience.
-- After training it will create two files 'retrained_graph.pb' & 'retrained_labels.txt'
-- Now run music_player_webcam.py (give proper path of songs and Mediaplayer according to your location in code)
-- If you want to fetch video from your mobile cam than use 'music_player_android.py',but you have to install IPWebcam app in your system
+- After training it will create two files `retrained_graph.pb` & `retrained_labels.txt`
+- Now run `music_player_webcam.py` (give proper path of songs and Mediaplayer according to your location in code)
+- If you want to fetch video from your mobile cam than use `music_player_android.py`,but you have to install IPWebcam app in your system
   and replace your server URL with my URL
 - That's all 
 
