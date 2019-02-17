@@ -1,4 +1,4 @@
-##  Music🎵 player with Emotion😂😥😡😱 Recognition
+##  Music🎵 player with Emotion😂😥😡😱 Recognition   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/LICENSE)
 
 ### Code Requirements
 - Tensorflow
