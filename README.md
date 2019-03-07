@@ -29,6 +29,10 @@
 
 <img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Emotion_recognition_Music_player.gif">
 
+### Video demo
+
+[Youtube](https://youtu.be/2xW6TP4Yojg)
+
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
 - If you think it will recognise expression just like humans,than leave it ,its not possible.
