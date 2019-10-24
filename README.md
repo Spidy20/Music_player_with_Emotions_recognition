@@ -25,19 +25,29 @@
   and replace your server URL with my URL
 - That's all 
 
-### How it works? See:)
+### How it works? See:) FREE VERSION WITHOUT GUI
 
 <img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Emotion_recognition_Music_player.gif">
 
-### Video demo
+### Video demo :- FREE VERSION
 
 [Youtube](https://youtu.be/2xW6TP4Yojg)
 
 
-### IMPORTANT
+### IMPORTANT if you want to purchase with GUI
 - This is just coded version with no GUI, i ggiven it to opensource ,but if you want to purchase a GUI version ,than email me on `kushalbhavsar58@gmail.com`.
 -  See here are some screenshots of full GUI version.
--  This GUI version won a prize in zhejiang university of technology 
+###  This GUI version won a prize in Zhejiang university of technology 
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china1.jpeg">
+### Poster Presentation
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china2.jpeg">
+
+### Project Screenshots
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (34).png">
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (35).png">
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (36).png">
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (37).png">
+<img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/Screenshot (38).png">
 
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
