@@ -33,6 +33,12 @@
 
 [Youtube](https://youtu.be/2xW6TP4Yojg)
 
+
+### IMPORTANT
+- This is just coded version with no GUI, i ggiven it to opensource ,but if you want to purchase a GUI version ,than email me on `kushalbhavsar58@gmail.com`.
+-  See here are some screenshots of full GUI version.
+-  This GUI version won a prize in zhejiang university of technology 
+
 ### Notes
 - It will require high processing power(I have 8 GB RAM & 2 GB GC)
 - If you think it will recognise expression just like humans,than leave it ,its not possible.
