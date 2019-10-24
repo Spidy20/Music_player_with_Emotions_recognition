@@ -51,7 +51,7 @@
 
 ###  This GUI version won a prize in Zhejiang university of technology China
 <img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china1.jpeg">
-###  Poster Presentation 
+###  This guy purchased this project from me and won prize in Zhejiang university of technology China
 <img src="https://github.com/Spidy20/Music_player_with_Emotions_recognition/blob/master/china2.jpeg">
 
 ### Notes
