@@ -60,4 +60,4 @@
 - Noisy image can reduce your accuracy so quality of images matter.
 
 ## Just follow☝️ me and Star⭐ my repository 
-## Buy my projects from here:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
+## Buy this projects from here at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820/e-musicplay-music-according-to-your-face-moo/)
