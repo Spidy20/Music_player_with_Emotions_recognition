@@ -3,6 +3,8 @@
 ### Sourcerer
 <a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
 
+### [Full Tutorial here](https://www.youtube.com/playlist?list=PLsT53VV2LIIFWgFtLCME6cXT6pUlouN8K)
+
 ### Code Requirements
 - Tensorflow
 - Download my repository
